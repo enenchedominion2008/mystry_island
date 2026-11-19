@@ -166,6 +166,7 @@ fun EndingScreen(
           style = MaterialTheme.typography.titleMedium,
         )
       }
+      }
     }
   }
 }

@@ -137,7 +137,6 @@ fun TitleScreen(onStartGame: () -> Unit) {
           )
         }
       }
-      }
     }
   }
 }
