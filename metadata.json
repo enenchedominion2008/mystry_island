@@ -1,0 +1,6 @@
+{
+  "name": "Mystery Island",
+  "description": "A storm-swept text-based adventure where you explore Mystery Island, collect objects, solve puzzles, manage energy, and restore the lighthouse beacon to escape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
